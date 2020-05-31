@@ -70,6 +70,8 @@ export const TaskData = [
       title: 'Service work report - Internal',
       statusId: 4,
       dueDate: '2020-05-02T00:00:00',
+      total: 10,
+      completed: 5,
     },
   ];
   
